@@ -1,0 +1,1 @@
+# Started Game Structure for SFML
